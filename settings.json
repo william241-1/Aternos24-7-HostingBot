@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "lifesteal-JuHC.aternos.me:49651",
+    "port": 49651,
     "version": "",
     "try-creative": false
   },
